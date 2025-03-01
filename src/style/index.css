@@ -1,0 +1,10 @@
+@tailwind utilities;
+
+@layer utilities {
+  html {
+    @apply bg-retrowave-midnight_blue text-white font-orbitron;
+  }
+  h2,h3 {
+    @apply text-retrowave-cyber_blue;
+  }
+}
