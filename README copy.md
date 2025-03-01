@@ -1,0 +1,1 @@
+Simple app to help me create flashcards sets in Anki app
